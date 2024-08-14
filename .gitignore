@@ -1,0 +1,5 @@
+Makefile
+/data/*
+/.vscode/*
+.env
+/config/dev.json
